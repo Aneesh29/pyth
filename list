@@ -1,0 +1,7 @@
+list1 = [5,2,6,12,7]
+list2 = [4,8,10,16,20]
+list1.append(1)
+print(list1)
+print(list1.index(1))
+list2.append(9)
+print(list2)
