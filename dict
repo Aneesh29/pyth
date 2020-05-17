@@ -1,0 +1,6 @@
+boys = {"rahul":"smart","raheem":"inteligent","zaid":"ordinary"}
+girls = {"rani":"bright","janu":"silent","veena":"artist"}
+boys.pop("raheem")
+print(boys)
+girls.pop("rani")
+print(girls)
