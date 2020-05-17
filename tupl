@@ -1,0 +1,4 @@
+tuple1 = ('hari','dev','joseph','mark')
+tuple2 = (20 , 24 , 22 , 21)
+print(tuple1[2])
+print(tuple2[1:3])
